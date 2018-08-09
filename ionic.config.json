@@ -1,0 +1,8 @@
+{
+  "name": "menu",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "91abb5b9"
+}
